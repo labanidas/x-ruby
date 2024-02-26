@@ -10,7 +10,7 @@ inherit_gem:
 
 AllCops:
   NewCops: enable
-  TargetRubyVersion: 3.0
+  TargetRubyVersion: 2.0
 
 Minitest/MultipleAssertions:
   Max: 5
